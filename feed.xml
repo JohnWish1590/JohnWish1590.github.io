@@ -3,7 +3,7 @@
     <title>JohnWish就是约翰祈祷</title>
     <link href="https://JohnWish1590.github.io/feed.xml" rel="self" />
     <link href="https://JohnWish1590.github.io" />
-    <updated>2026-01-04T20:52:27+08:00</updated>
+    <updated>2026-01-04T21:04:10+08:00</updated>
     <author>
         <name>JohnWish1590</name>
     </author>
@@ -75,11 +75,10 @@
 <p data-path-to-node="30,3,0">GitHub 私有仓库每月免费额度只有 2000 分钟。按这个速度，<strong data-path-to-node="30,3,0" data-index-in-node="34">8 天就会用光一个月的额度</strong>。</p>
 </li>
 </ul>
-<p data-path-to-node="31">为了解决这个问题，我们将策略调整为**“省流模式”**：只在早 8 点到晚 8 点运行，且频率降低为每 30 分钟一次。</p>
+<p data-path-to-node="31">为了解决这个问题，我们将策略调整为“省流模式”：只在早 8 点到晚 8 点运行，且频率降低为每 30 分钟一次。</p>
 <h3 data-path-to-node="32">4. 第四阶段：发布 v1.0 与 Release 事故</h3>
 <p data-path-to-node="33">当代码终于稳定后，我想把这个版本定格下来。AI 建议我使用 GitHub 的 Releases 功能。</p>
-<p data-path-to-node="34">结果在发布时，我又卡住了。我填好了标题和内容，点击发布却一直报错：<code data-path-to-node="34" data-index-in-node="33">tag name can't be blank</code>。</p>
-<p data-path-to-node="35"><i data-path-to-node="35" data-index-in-node="0">(图注：卡在发布界面，不知道 Tag 怎么填)</i></p>
+<p data-path-to-node="34">结果在发布时，我又卡住了。我填好了标题和内容，点击发布却一直报错：<code data-path-to-node="34" data-index-in-node="33">tag name can't be blank</code>。<i data-path-to-node="35" data-index-in-node="0"></i></p>
 <p data-path-to-node="36">原来，GitHub 发版必须关联一个“标签”（Tag）。在 AI 的截图指引下，我学会了在输入框输入 <code data-path-to-node="36" data-index-in-node="51">v1.0.0</code> 后，必须点击那个弹出的 <strong data-path-to-node="36" data-index-in-node="70">"Create new tag"</strong> 按钮，而不是直接跳过。</p>
 <h3 data-path-to-node="37">5. 最终成果</h3>
 <p data-path-to-node="38">经过 48 小时的调试，这个“个人金融情报站”终于 v1.0 上线了。现在的它：</p>
